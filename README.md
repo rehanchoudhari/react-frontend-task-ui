@@ -2,14 +2,6 @@
 
 This is the frontend part of the React Task Manager App. It interacts with the corresponding backend API to manage tasks.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Add, edit, and delete tasks.
